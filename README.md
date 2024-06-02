@@ -1,6 +1,6 @@
 # Hi, I'm Goblin Guy 👋
 
-Welcome to my GitHub profile! I'm a passionate video game developer, turning my hobby into my profession. As the owner of **Angry Lightbulb Studios**, a small indie game development company, I love bringing creative and innovative games to life.
+Welcome to my GitHub profile! I'm a passionate indie game developer who loves blending different genres into unique gaming experiences.
 
 ## 🎮 About Me
 
@@ -8,20 +8,21 @@ Welcome to my GitHub profile! I'm a passionate video game developer, turning my 
 - **Profession:** Indie Game Developer
 - **Company:** Angry Lightbulb Studios
 
-I have a deep love for video games, both playing and creating them.
+I have a deep love for video games, both playing and creating them. My passion lies in combining various game genres to create exciting new experiences.
 
 ## 🔧 Technologies & Tools
 
-- **Languages I know:** C++, Python, Lua, GDScript
-- **Game Engines:** Godot
+- **Languages I Know:** C++, Python, Lua, GDScript
+- **Game Engine:** Godot
 - **Tools:** Blender, Notepad++
 
 ## 🚀 What I'm Working On
 
-- **Current Project:** I'm currently developing a new FPS game that combines elements of **Classic/Retro Shooters** and **More Modern Shooters**.
+- **Current Project:** I'm currently developing an FPS game that combines elements of **Classic/Retro Shooters** and **Modern Shooters**.
 
-## 📫 Links:
+## 📫 Links
 
 - **Instagram:** [@gobl1n_guy](https://www.instagram.com/gobl1n_guy/)
-- **Itch.io** [Goblin Guy](https://th4t-1g0bl1n.itch.io/)
+- **Itch.io:** [Goblin Guy](https://th4t-1g0bl1n.itch.io/)
 
+Thank you for visiting my profile! Stay tuned for updates and new projects from Angry Lightbulb Studios.
