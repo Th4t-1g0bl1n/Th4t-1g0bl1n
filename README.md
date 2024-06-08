@@ -1,22 +1,12 @@
-# Hi, I'm Goblin Guy 👋
+# Welcome to my Github profile!
 
-Welcome to my GitHub profile!
+## About me
 
-## 🎮 About Me
+Languages i know: Python, Lua, C++, Gdscript
+Engines i use: Godot
+Games i play: Quake (Quake and Quake 3 arena), TF2, Half life (1 and 2), Portal (1 and 2), Doom (Doom 1993, Doom II, Doom 2016, Doom Eternal), Gmod, Rust
 
-- **Name:** Goblin Guy
-- **Profession:** Indie Game Developer
-- **Company:** Angry Lightbulb Studios
-
-I have a deep love for video games, both playing and creating them.
-
-## 🔧 Technologies & Tools
-
-- **Languages I Know:** C++, Python, Lua, GDScript
-- **Game Engine:** Godot
-- **Tools:** Blender, Notepad++
-
-## 📫 Links
+## Links
 
 - **Instagram:** [@gobl1n_guy](https://www.instagram.com/gobl1n_guy/)
 - **Itch.io:** [Goblin Guy](https://th4t-1g0bl1n.itch.io/)
