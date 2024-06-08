@@ -21,4 +21,4 @@ I have a deep love for video games, both playing and creating them.
 - **Instagram:** [@gobl1n_guy](https://www.instagram.com/gobl1n_guy/)
 - **Itch.io:** [Goblin Guy](https://th4t-1g0bl1n.itch.io/)
 
-Thank you for visiting my profile! Stay tuned for updates and new projects from Angry Lightbulb Studios.
+
