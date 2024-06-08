@@ -1,6 +1,6 @@
 # Hi, I'm Goblin Guy 👋
 
-Welcome to my GitHub profile! I'm a passionate indie game developer who loves blending different genres into unique gaming experiences.
+Welcome to my GitHub profile!
 
 ## 🎮 About Me
 
