@@ -3,7 +3,9 @@
 ## About me
 
 Languages i know: Python, Lua, C++, Gdscript
+
 Engines i use: Godot
+
 Games i play: Quake (Quake and Quake 3 arena), TF2, Half life (1 and 2), Portal (1 and 2), Doom (Doom 1993, Doom II, Doom 2016, Doom Eternal), Gmod, Rust
 
 ## Links
