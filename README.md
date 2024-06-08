@@ -8,17 +8,13 @@ Welcome to my GitHub profile! I'm a passionate indie game developer who loves bl
 - **Profession:** Indie Game Developer
 - **Company:** Angry Lightbulb Studios
 
-I have a deep love for video games, both playing and creating them. My passion lies in combining various game genres to create exciting new experiences.
+I have a deep love for video games, both playing and creating them.
 
 ## 🔧 Technologies & Tools
 
 - **Languages I Know:** C++, Python, Lua, GDScript
 - **Game Engine:** Godot
 - **Tools:** Blender, Notepad++
-
-## 🚀 What I'm Working On
-
-- **Current Project:** I'm currently developing an FPS game that combines elements of **Classic/Retro Shooters** and **Modern Shooters**.
 
 ## 📫 Links
 
